@@ -7,6 +7,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 ## Hashing
 
 - [Two Sum](https://github.com/dipshanadh/top-100-liked/blob/main/hashing/two-sum.cpp)
+- [Group Anagrams](https://github.com/dipshanadh/top-100-liked/blob/main/hashing/group-anagrams.cpp)
 
 # Usage
 
