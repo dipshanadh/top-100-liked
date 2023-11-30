@@ -11,6 +11,10 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 - [Subarray Sum Equals K](https://github.com/dipshanadh/top-100-liked/blob/main/hashing/subarray-sum-equals-k.cpp)
 - [Largest Consecutive Sequence](https://github.com/dipshanadh/top-100-liked/blob/main/hashing/longest-consecutive-sequence.cpp)
 
+## Stack
+
+- [Valid Parenthesis](https://github.com/dipshanadh/top-100-liked/blob/main/stack/valid-parenthesis.cpp)
+
 # Usage
 
 Navigate to the required problem from above list and just paste the solution class into your LeetCode editor.
