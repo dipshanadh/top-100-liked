@@ -16,6 +16,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 - [Valid Parenthesis](https://github.com/dipshanadh/top-100-liked/blob/main/stack/valid-parenthesis.cpp)
 - [Min Stack](https://github.com/dipshanadh/top-100-liked/blob/main/stack/min-stack.cpp)
 - [Daily Temperatures](https://github.com/dipshanadh/top-100-liked/blob/main/stack/daily-temperatures.cpp)
+- [Decode String](https://github.com/dipshanadh/top-100-liked/blob/main/stack/decode-string.cpp)
 
 # Usage
 
