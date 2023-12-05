@@ -18,6 +18,10 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 - [Daily Temperatures](https://github.com/dipshanadh/top-100-liked/blob/main/stack/daily-temperatures.cpp)
 - [Decode String](https://github.com/dipshanadh/top-100-liked/blob/main/stack/decode-string.cpp)
 
+## Two Pointer
+
+- [Move Zeroes](https://github.com/dipshanadh/top-100-liked/blob/main/two-pointers/move-zeroes.cpp)
+
 # Usage
 
 Navigate to the required problem from above list and just paste the solution class into your LeetCode editor.
