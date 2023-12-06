@@ -21,6 +21,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 ## Two Pointer
 
 - [Move Zeroes](https://github.com/dipshanadh/top-100-liked/blob/main/two-pointers/move-zeroes.cpp)
+- [Container With Most Water](https://github.com/dipshanadh/top-100-liked/blob/main/two-pointers/container-with-most-water.cpp)
 
 # Usage
 
