@@ -22,6 +22,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 
 - [Move Zeroes](https://github.com/dipshanadh/top-100-liked/blob/main/two-pointers/move-zeroes.cpp)
 - [Container With Most Water](https://github.com/dipshanadh/top-100-liked/blob/main/two-pointers/container-with-most-water.cpp)
+- [3Sum](https://github.com/dipshanadh/top-100-liked/blob/main/two-pointers/3sum.cpp)
 
 # Usage
 
