@@ -25,6 +25,10 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 - [Container With Most Water](https://github.com/dipshanadh/top-100-liked/blob/main/two-pointers/container-with-most-water.cpp)
 - [3Sum](https://github.com/dipshanadh/top-100-liked/blob/main/two-pointers/3sum.cpp)
 
+# Trie
+
+- [Implement Trie (Prefix Tree)](https://github.com/dipshanadh/top-100-liked/blob/main/trie/implement-trie.cpp)
+
 # Usage
 
 Navigate to the required problem from above list and just paste the solution class into your LeetCode editor.
