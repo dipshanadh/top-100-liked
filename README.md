@@ -30,6 +30,10 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 
 - [Implement Trie (Prefix Tree)](https://github.com/dipshanadh/top-100-liked/blob/main/trie/implement-trie.cpp)
 
+# Sliding Window
+
+- [Sliding Window Maximum](https://github.com/dipshanadh/top-100-liked/blob/main/sliding-window/sliding-window-maximum.cpp)
+
 # Usage
 
 Navigate to the required problem from above list and just paste the solution class into your LeetCode editor.
