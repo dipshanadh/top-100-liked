@@ -38,6 +38,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 # Linked List
 
 - [Linked List Cycle](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/linked-list-cycle.cpp)
+- [Merge Two Sorted List](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/merge-two-sorted-lists.cpp)
 
 # Usage
 
