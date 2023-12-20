@@ -45,6 +45,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 - [Reverse Linked List](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/reverse-linked-list.cpp)
 - [Palindrome Linked List](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/palindrome-linked-list.cpp)
 - [Intersection of Two Linked List](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/intersection-of-two-linked-lists.cpp)
+- [Reverse Nodes in K Group](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/reverse-nodes-in-k-group.cpp)
 
 # Usage
 
