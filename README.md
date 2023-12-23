@@ -26,18 +26,18 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 - [3Sum](https://github.com/dipshanadh/top-100-liked/blob/main/two-pointers/3sum.cpp)
 - [Trapping Rain Water](https://github.com/dipshanadh/top-100-liked/blob/main/two-pointers/trapping-rainwater.cpp)
 
-# Trie
+## Trie
 
 - [Implement Trie (Prefix Tree)](https://github.com/dipshanadh/top-100-liked/blob/main/trie/implement-trie.cpp)
 
-# Sliding Window
+## Sliding Window
 
 - [Sliding Window Maximum](https://github.com/dipshanadh/top-100-liked/blob/main/sliding-window/sliding-window-maximum.cpp)
 - [Minimum Window Substring](https://github.com/dipshanadh/top-100-liked/blob/main/sliding-window/minimum-window-substring.cpp)
 - [Longest Substring Without Repeating Characters](https://github.com/dipshanadh/top-100-liked/blob/main/sliding-window/longest-substring-without-repeating-characters.cpp)
 - [Find All Anagrams in a String](https://github.com/dipshanadh/top-100-liked/blob/main/sliding-window/find-all-anagrams-in-a-string.cpp)
 
-# Linked List
+## Linked List
 
 - [Linked List Cycle](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/linked-list-cycle.cpp)
 - [Merge Two Sorted List](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/merge-two-sorted-lists.cpp)
@@ -48,6 +48,10 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 - [Reverse Nodes in K Group](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/reverse-nodes-in-k-group.cpp)
 - [Remove Nth Node From End of List](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/remove-nth-node-from-end-of-list.cpp)
 - [Merge K Sorted Lists](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/merge-k-sorted-lists.cpp)
+
+## Heap
+
+- [Kth Largest Element in an Array](https://github.com/dipshanadh/top-100-liked/blob/main/heap/kth-largest-element.cpp)
 
 # Usage
 
