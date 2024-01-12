@@ -57,6 +57,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 
 -   [Maximum Depth of Binary Tree](https://github.com/dipshanadh/top-100-liked/blob/main/binary-tree/maximum-depth-of-binary-tree.cpp)
 -   [Invert Binary Tree](https://github.com/dipshanadh/top-100-liked/blob/main/binary-tree/invert-binary-tree.cpp)
+-   [Binary Tree Inorder Traversal](https://github.com/dipshanadh/top-100-liked/blob/main/binary-tree/binary-tree-inorder-traversal.cpp)
 
 # Usage
 
