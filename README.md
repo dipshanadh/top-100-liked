@@ -59,6 +59,10 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 -   [Invert Binary Tree](https://github.com/dipshanadh/top-100-liked/blob/main/binary-tree/invert-binary-tree.cpp)
 -   [Binary Tree Inorder Traversal](https://github.com/dipshanadh/top-100-liked/blob/main/binary-tree/binary-tree-inorder-traversal.cpp)
 
+## Dynamic Programming
+
+-   [Climbing Stais](https://github.com/dipshanadh/top-100-liked/blob/main/dynamic-programming/climbing-stais.cpp)
+
 # Usage
 
 Navigate to the required problem from above list and just paste the solution class into your LeetCode editor.
