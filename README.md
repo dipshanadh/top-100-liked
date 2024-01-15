@@ -64,6 +64,10 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 
 -   [Climbing Stais](https://github.com/dipshanadh/top-100-liked/blob/main/dynamic-programming/climbing-stais.cpp)
 
+## Misc
+
+-   [Find the Duplicate Number](https://github.com/dipshanadh/top-100-liked/main/misc/find-the-duplicate-number.cpp)
+
 # Usage
 
 Navigate to the required problem from above list and just paste the solution class into your LeetCode editor.
