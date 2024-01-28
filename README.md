@@ -67,6 +67,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 ## Misc
 
 -   [Find the Duplicate Number](https://github.com/dipshanadh/top-100-liked/main/misc/find-the-duplicate-number.cpp)
+-   [Majority Element](https://github.com/dipshanadh/top-100-liked/main/misc/majority-element.cpp)
 
 # Usage
 
