@@ -64,6 +64,10 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 
 -   [Climbing Stais](https://github.com/dipshanadh/top-100-liked/blob/main/dynamic-programming/climbing-stais.cpp)
 
+## Greedy
+
+-   [Best Time to Buy and Send Stock](https://github.com/dipshanadh/top-100-liked/blob/main/greedy/best-time-to-buy-and-sell-stock.cpp)
+
 ## Misc
 
 -   [Find the Duplicate Number](https://github.com/dipshanadh/top-100-liked/main/misc/find-the-duplicate-number.cpp)
