@@ -58,13 +58,14 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 ## Binary Tree
 
 -   [Maximum Depth of Binary Tree](https://github.com/dipshanadh/top-100-liked/blob/main/binary-tree/maximum-depth-of-binary-tree.cpp)
+-   [Diameter of Binary Tree](https://github.com/dipshanadh/top-100-liked/blob/main/binary-tree/diameter-of-binary-tree.cpp)
 -   [Invert Binary Tree](https://github.com/dipshanadh/top-100-liked/blob/main/binary-tree/invert-binary-tree.cpp)
 -   [Binary Tree Inorder Traversal](https://github.com/dipshanadh/top-100-liked/blob/main/binary-tree/binary-tree-inorder-traversal.cpp)
 -   [Binary Tree Level Order Traversal](https://github.com/dipshanadh/top-100-liked/blob/main/binary-tree/binary-tree-level-order-traversal.cpp)
 
 ## Dynamic Programming
 
--   [Climbing Stais](https://github.com/dipshanadh/top-100-liked/blob/main/dynamic-programming/climbing-stais.cpp)
+-   [Climbing Stais](https://github.com/dipshanadh/top-100-liked/blob/main/dynamic-programming/climbing-stairs.cpp)
 
 ## Greedy
 
@@ -72,11 +73,11 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 
 ## Misc
 
--   [Find the Duplicate Number](https://github.com/dipshanadh/top-100-liked/main/misc/find-the-duplicate-number.cpp)
--   [Majority Element](https://github.com/dipshanadh/top-100-liked/main/misc/majority-element.cpp)
--   [Maximum Subarray](https://github.com/dipshanadh/top-100-liked/main/misc/maximum-subarray.cpp)
--   [Sort Colors](https://github.com/dipshanadh/top-100-liked/main/misc/sort-colors.cpp)
--   [Product of Array Except Self](https://github.com/dipshanadh/top-100-liked/main/misc/product-of-array-except-self.cpp)
+-   [Find the Duplicate Number](https://github.com/dipshanadh/top-100-liked/blob/main/misc/find-the-duplicate-number.cpp)
+-   [Majority Element](https://github.com/dipshanadh/top-100-liked/blob/main/misc/majority-element.cpp)
+-   [Maximum Subarray](https://github.com/dipshanadh/top-100-liked/blob/main/misc/maximum-subarray.cpp)
+-   [Sort Colors](https://github.com/dipshanadh/top-100-liked/blob/main/misc/sort-colors.cpp)
+-   [Product of Array Except Self](https://github.com/dipshanadh/top-100-liked/blob/main/misc/product-of-array-except-self.cpp)
 
 # Usage
 
