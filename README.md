@@ -54,6 +54,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 ## Heap
 
 -   [Kth Largest Element in an Array](https://github.com/dipshanadh/top-100-liked/blob/main/heap/kth-largest-element.cpp)
+-   [Top K Frequent Elements](https://github.com/dipshanadh/top-100-liked/blob/main/heap/top-k-frequent-elements.cpp)
 
 ## Binary Tree
 
