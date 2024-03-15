@@ -50,6 +50,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 -   [Remove Nth Node From End of List](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/remove-nth-node-from-end-of-list.cpp)
 -   [Merge K Sorted Lists](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/merge-k-sorted-lists.cpp)
 -   [LRU Cache](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/lru-cache.cpp)
+-   [Swap Nodes in Pairs](https://github.com/dipshanadh/top-100-liked/blob/main/linked-list/swap-nodes-in-pairs.cpp)
 
 ## Heap
 
