@@ -80,6 +80,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 -   [Maximum Subarray](https://github.com/dipshanadh/top-100-liked/blob/main/misc/maximum-subarray.cpp)
 -   [Sort Colors](https://github.com/dipshanadh/top-100-liked/blob/main/misc/sort-colors.cpp)
 -   [Product of Array Except Self](https://github.com/dipshanadh/top-100-liked/blob/main/misc/product-of-array-except-self.cpp)
+-   [Roate Array](https://github.com/dipshanadh/top-100-liked/blob/main/misc/rotate_array.py)
 
 # Usage
 
