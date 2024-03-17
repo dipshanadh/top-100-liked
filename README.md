@@ -76,7 +76,7 @@ Solving 100 most liked problems by LeetCoders to improve coding skills.
 ## Misc
 
 -   [Find the Duplicate Number](https://github.com/dipshanadh/top-100-liked/blob/main/misc/find-the-duplicate-number.cpp)
--   [Majority Element](https://github.com/dipshanadh/top-100-liked/blob/main/misc/majority-element.cpp)
+-   [Majority Element](https://github.com/dipshanadh/top-100-liked/blob/main/misc/majority_element.py)
 -   [Maximum Subarray](https://github.com/dipshanadh/top-100-liked/blob/main/misc/maximum-subarray.cpp)
 -   [Sort Colors](https://github.com/dipshanadh/top-100-liked/blob/main/misc/sort-colors.cpp)
 -   [Product of Array Except Self](https://github.com/dipshanadh/top-100-liked/blob/main/misc/product-of-array-except-self.cpp)
